@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h1 align="center">Prateek Kumar </h1>
+
+
+![](https://komarev.com/ghpvc/?username=PrateekKumar1709)
+
+
+
 - 🌱 I’m currently learning Cloud Computing & Big Data and Data Science 🤣
 - 🧑‍💻 I’m looking for internship opportunities for summer 2022 
 - 🥅 2021 Goals: Contribute more to Open Source projects
