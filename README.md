@@ -84,14 +84,6 @@
             height="40"
         />
     </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img
-            src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
-            alt="Bash"
-            width="40"
-            height="40"
-        />
-    </a>
     <a href="https://ubuntu.com/" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"
