@@ -13,10 +13,11 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
-### Connect with me:
+<h3 align="center">Connect with me:</h3>
+<p align="center"> 
+	<a href="https://prateekkumar1709.github.io/PrateekKumar/"><img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Prateek Kumar"/></a>
+	<a href="https://www.linkedin.com/in/prateek1709/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Prateek Kumar" /> </a>
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] [https://prateekkumar1709.github.io/PrateekKumar/]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/prateek1709/]
 	
 <h3 align="center">Languages and Tools </h3>
 <p align="center">
