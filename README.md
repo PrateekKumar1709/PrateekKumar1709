@@ -15,7 +15,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> 
-	<a href="prateekkumar1709@gmail.com"><img width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/100px-Gmail_icon_%282020%29.svg.png" alt="Prateek Kumar"/></a>
+	<a href="prateekkumar1709@gmail.com"><img width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/100px-Gmail_icon_%282020%29.svg.png" alt="Prateek Kumar"/></a> &nbsp &nbsp
 	<a href="https://www.linkedin.com/in/prateek1709/"><img width="95px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Prateek Kumar" /> </a>
 
 	
