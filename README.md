@@ -28,6 +28,22 @@
             height="40"
         />
     </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+        <img
+            src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
+            alt="c"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img
+            src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
+            alt="c++"
+            width="40"
+            height="40"
+        />
+    </a>
   <a href="https://www.aws.com/" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -48,30 +64,6 @@
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg"
             alt="kubernetes"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img
-            src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
-            alt="c"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img
-            src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
-            alt="c++"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://flask.palletsprojects.com" target="_blank">
-        <img
-            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-            alt="flask"
             width="40"
             height="40"
         />
@@ -108,6 +100,15 @@
             height="40"
         />
     </a>
+	<a href="https://flask.palletsprojects.com" target="_blank">
+        <img
+            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+            alt="flask"
+            width="40"
+            height="40"
+        />
+    </a>
+	
 </p>
 
 <br />
