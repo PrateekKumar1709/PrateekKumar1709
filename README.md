@@ -8,7 +8,7 @@
   <a href="https://prateekkumar1709.github.io/PrateekKumar/"><img src="https://img.shields.io/website?down_color=red&down_message=Down&up_color=green&up_message=Up&url=https%3A%2F%2Fprateekkumar1709.github.io%2FPrateekKumar%2F" alt="Prateek Kumar"/> </a>
 
 
-- 🌱 I’m currently learning Cloud Computing & Big Data and Data Science 🤣
+- 🌱 I’m currently learning Cloud Computing & Big Data and Data Science
 - 🧑‍💻 I’m looking for internship opportunities for summer 2022 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
