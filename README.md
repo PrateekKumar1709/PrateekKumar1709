@@ -15,8 +15,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> 
-	<a href="https://prateekkumar1709.github.io/PrateekKumar/"><img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Prateek Kumar"/></a>
-	<a href="https://www.linkedin.com/in/prateek1709/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Prateek Kumar" /> </a>
+	<a href="prateekkumar1709@gmail.com"><img width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/100px-Gmail_icon_%282020%29.svg.png" alt="Prateek Kumar"/></a>
+	<a href="https://www.linkedin.com/in/prateek1709/"><img width="95px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Prateek Kumar" /> </a>
 
 	
 <h3 align="center">Languages and Tools </h3>
