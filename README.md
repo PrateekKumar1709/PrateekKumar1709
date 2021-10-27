@@ -86,10 +86,10 @@
             height="40"
         />
     </a>
-    <a href="https://ubuntu.com/" target="_blank">
+    <a href="https://www.vim.org/" target="_blank">
         <img
-            src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"
-            alt="Ubuntu"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/64px-Vimlogo.svg.png"
+            alt="Vim"
             width="40"
             height="40"
         />
