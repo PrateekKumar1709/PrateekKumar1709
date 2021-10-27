@@ -86,13 +86,6 @@
             height="40"
         />
     </a>
-    <a href="https://www.vim.org/" target="_blank">
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/64px-Vimlogo.svg.png"
-            alt="Vim"
-            width="40"
-            height="40"
-        />
     </a>
 	<a href="https://www.linux.org/" target="_blank">
         <img
@@ -102,6 +95,20 @@
             height="40"
         />
     </a>
+	<a href="https://graphql.org/" target="_blank">
+        <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/225px-GraphQL_Logo.svg.png"
+            alt="GraphQL"
+            width="40"
+            height="40"
+        />
+	<a href="https://www.vim.org/" target="_blank">
+        <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/64px-Vimlogo.svg.png"
+            alt="Vim"
+            width="40"
+            height="40"
+        />
 	<a href="https://github.com/" target="_blank">
         <img
             src="https://avatars.githubusercontent.com/u/9919?s=200&v=4"
