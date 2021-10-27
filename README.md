@@ -47,8 +47,17 @@
     </a>
   <a href="https://www.aws.com/" target="_blank">
         <img
-            src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+            src="https://media-exp1.licdn.com/dms/image/C4D0BAQGDg9Y7HCAP_g/company-logo_200_200/0/1633027000701?e=1643241600&v=beta&t=ivK9gjS0vgFO3Is7RiLbBUpa5AX2BpcGNTChothyWX4"
             alt="aws"
+            width="40"
+            height="40"
+        />
+    </a>
+	</a>
+	<a href="https://www.elastic.co/" target="_blank">
+        <img
+            src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt5d10f3a91df97d15/5c30744829d13af10bc2abd4/logo-elastic-vertical-reverse.svg"
+            alt="Elastic Stack"
             width="40"
             height="40"
         />
@@ -95,20 +104,12 @@
     </a>
 	<a href="https://github.com/" target="_blank">
         <img
-            src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"
+            src="https://avatars.githubusercontent.com/u/9919?s=200&v=4"
             alt="Github"
             width="40"
             height="40"
         />
-    </a>
-	<a href="https://flask.palletsprojects.com" target="_blank">
-        <img
-            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-            alt="flask"
-            width="40"
-            height="40"
-        />
-    </a>
+    
 	
 </p>
 
