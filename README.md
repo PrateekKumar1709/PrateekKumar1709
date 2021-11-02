@@ -1,11 +1,14 @@
-### Hi there 👋
-
 <h1 align="center">Prateek Kumar </h1>
+
+<p align="center"> 
+	<img src="https://github.com/sailikhithk/sailikhithk/blob/master/welcome-1.gif" width="250" height="150">
+
 <p align="center"> 
 	<a href="https://github.com/PrateekKumar1709"><img src="https://komarev.com/ghpvc/?username=PrateekKumar1709" alt="Prateek Kumar"/></a>
 	<a href="https://github.com/PrateekKumar1709?tab=repositories"><img src="https://badges.pufler.dev/repos/PrateekKumar1709" alt="Prateek Kumar" /> </a>
 	<img src="https://img.shields.io/github/stars/PrateekKumar1709?label=Stars" alt="Total Stars">
-  <a href="https://prateekkumar1709.github.io/PrateekKumar/"><img src="https://img.shields.io/website?down_color=red&down_message=Down&up_color=green&up_message=Up&url=https%3A%2F%2Fprateekkumar1709.github.io%2FPrateekKumar%2F" alt="Prateek Kumar"/> </a>
+	<a href="https://github.com/PrateekKumar1709?tab=repositories"><img src="https://badges.pufler.dev/repos/PrateekKumar1709" alt="Prateek Kumar" /> </a>
+	<a href="https://prateekkumar1709.github.io/PrateekKumar/"><img src="https://img.shields.io/github/followers/PrateekKumar1709?label=Followers" alt="Prateek Kumar"/> </a>
 
 
 - 📚 Computer Science Graduate student @ NYU 
@@ -15,10 +18,11 @@
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
+
 <h3 align="center">Connect with me:</h3>
 <p align="center"> 
-	<a href="prateekkumar1709@gmail.com"><img width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/100px-Gmail_icon_%282020%29.svg.png" alt="Prateek Kumar"/></a> &nbsp &nbsp
-	<a href="https://www.linkedin.com/in/prateek1709/"><img width="95px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Prateek Kumar" /> </a>
+	<a href="prateekkumar1709@gmail.com"><img width="45px" src="https://img.shields.io/badge/-sailikhithk?style=social&logo=Gmail&logoColor=red" alt="Prateek Kumar"/></a> &nbsp &nbsp
+	<a href="https://www.linkedin.com/in/prateek1709/"><img width="45px" src="https://img.shields.io/badge/--blue?style=social&logo=Linkedin&logoColor=blue" alt="Prateek Kumar" /> </a>
 
 	
 <h3 align="center">Languages and Tools </h3>
