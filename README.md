@@ -77,7 +77,7 @@
     </a>
   <a href="https://kubernetes.io/" target="_blank">
         <img
-            src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/84px-Kubernetes_logo_without_workmark.svg.png"
             alt="kubernetes"
             width="40"
             height="40"
