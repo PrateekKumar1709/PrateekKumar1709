@@ -9,7 +9,8 @@
 	<img src="https://img.shields.io/github/stars/PrateekKumar1709?label=Stars" alt="Total Stars">
 	<a href="https://prateekkumar1709.github.io/PrateekKumar/"><img src="https://img.shields.io/github/followers/PrateekKumar1709?label=Followers" alt="Prateek Kumar"/> </a>
 
-
+### About Me:
+	
 - 📚 Computer Science Graduate student @ NYU 
 - 💻 Ex-Senior Software Developer @ Bridge Solutions Group
 - 🌱 I’m currently learning Cloud Computing & Big Data and Data Science
