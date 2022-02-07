@@ -53,7 +53,7 @@
     </a>
   <a href="https://www.aws.com/" target="_blank">
         <img
-            src="https://media-exp1.licdn.com/dms/image/C4D0BAQGDg9Y7HCAP_g/company-logo_200_200/0/1633027000701?e=1643241600&v=beta&t=ivK9gjS0vgFO3Is7RiLbBUpa5AX2BpcGNTChothyWX4"
+            src="https://www.fintechfutures.com/files/2019/12/Amazon-Web-Services-Logo.png"
             alt="aws"
             width="40"
             height="40"
