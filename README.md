@@ -15,7 +15,7 @@
 - 💻 Ex-Senior Software Developer @ Bridge Solutions Group
 - 🌱 I’m currently working on Cloud Computing & Big Data and Data Engineering
 - 🧑‍💻 I’m looking for SWE internship opportunities for summer 2022 
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
 
