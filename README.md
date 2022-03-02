@@ -81,7 +81,7 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/250px-Apache_Spark_logo.svg.png"
             alt="c"
             width="40"
-            height="40"
+            height="50"
         />
     </a>
     <a href="https://www.postgresql.org/" target="_blank">
