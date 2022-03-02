@@ -35,15 +35,7 @@
             height="40"
         />
     </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-        <img
-            src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
-            alt="c"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank">
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
             alt="c++"
@@ -80,6 +72,14 @@
         <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/84px-Kubernetes_logo_without_workmark.svg.png"
             alt="kubernetes"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://databricks.com/glossary/pyspark" target="_blank">
+        <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/250px-Apache_Spark_logo.svg.png"
+            alt="c"
             width="40"
             height="40"
         />
