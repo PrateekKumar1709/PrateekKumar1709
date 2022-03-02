@@ -14,7 +14,7 @@
 - 📚 Computer Science Graduate student @ NYU 
 - 💻 Ex-Senior Software Developer @ Bridge Solutions Group
 - 🌱 I’m currently working on Cloud Computing & Big Data and Data Engineering
-- 🧑‍💻 I’m looking for SWE internship opportunities for summer 2022 
+- 🧑‍💻 I’m looking for SDE internship opportunities for summer 2022 
 - 🥅 2022 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
