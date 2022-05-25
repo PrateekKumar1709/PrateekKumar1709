@@ -35,7 +35,7 @@
             height="40"
         />
     </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
+  <a href="https://www.w3schools.com/typescript/index.php" target="_blank">
         <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png"
             alt="TypeScript"
