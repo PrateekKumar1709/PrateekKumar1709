@@ -37,8 +37,8 @@
     </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
         <img
-            src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
-            alt="c++"
+            src="[https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png)"
+            alt="TypeScript"
             width="40"
             height="40"
         />
