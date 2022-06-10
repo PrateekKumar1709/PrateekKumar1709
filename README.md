@@ -21,7 +21,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> 
-	<a href="prateekkumar1709@gmail.com"><img width="45px" src="https://img.shields.io/badge/-sailikhithk?style=social&logo=Gmail&logoColor=red" alt="Prateek Kumar"/></a> &nbsp &nbsp
+	<a href="mailto:pk2460@nyu.edu"><img width="45px" src="https://img.shields.io/badge/-sailikhithk?style=social&logo=Gmail&logoColor=red" alt="Prateek Kumar"/></a> &nbsp &nbsp
 	<a href="https://www.linkedin.com/in/prateek1709/"><img width="45px" src="https://img.shields.io/badge/--blue?style=social&logo=Linkedin&logoColor=blue" alt="Prateek Kumar" /> </a>
 
 	
