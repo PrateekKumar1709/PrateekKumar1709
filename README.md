@@ -90,7 +90,7 @@
         <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/250px-Apache_Spark_logo.svg.png"
             alt="c"
-            width="40"
+            width="55"
             height="50"
         />
     </a>
