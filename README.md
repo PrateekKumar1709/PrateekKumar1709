@@ -5,7 +5,9 @@
 
 <p align="center"> 
 	<a href="https://github.com/PrateekKumar1709"><img src="https://komarev.com/ghpvc/?username=PrateekKumar1709" alt="Prateek Kumar"/></a>
+<!---
 	<a href="https://github.com/PrateekKumar1709?tab=repositories"><img src="https://badges.pufler.dev/repos/PrateekKumar1709" alt="Prateek Kumar" /> </a>
+-->
 	<img src="https://img.shields.io/github/stars/PrateekKumar1709?label=Stars" alt="Total Stars">
 	<a href="https://prateekkumar1709.github.io/PrateekKumar/"><img src="https://img.shields.io/github/followers/PrateekKumar1709?label=Followers" alt="Prateek Kumar"/> </a>
 
