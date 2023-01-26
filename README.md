@@ -17,7 +17,7 @@
 - 💻 SDE Intern @ClearMIx | Ex-Senior Software Developer @Bridge Solutions Group
 - 🌱 I’m currently working on building backend applications using Cloud Computing & Big Data and Data Engineering
 - 🧑‍💻 I’m looking for SDE full time opportunities starting May 2023
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I am into photography and I play guitar
 
 
