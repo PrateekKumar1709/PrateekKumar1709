@@ -13,10 +13,9 @@
 
 ### About Me:
 	
-- 💻 SDE
+- 💻 Software Engineer | Open Source | CNCF | K8s
 - 📚 CS @ NYU 
 - 🌱 I’m currently working on building backend applications using Cloud Computing & Big Data and Data Engineering
-- 🧑‍💻 I’m looking for SDE full time opportunities starting May 2023
 - 🥅 2023 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I am into photography and I play guitar
 
