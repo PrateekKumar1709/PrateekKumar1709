@@ -16,7 +16,7 @@
 - 💻 Software Engineer | Open Source | CNCF | K8s
 - 📚 CS @ NYU 
 - 🌱 I’m currently working on building backend applications using Cloud Computing & Big Data and Data Engineering
-- 🥅 2023 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I am into photography and I play guitar
 
 
