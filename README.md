@@ -20,25 +20,34 @@ I thrive on tackling hyper-scale challenges, constantly pushing the boundaries o
 
 Beyond my professional endeavors, I'm deeply committed to knowledge sharing and community building. Through mentorship and collaboration, I strive to empower others in the tech field.
 
+<h3 align="left">
+    Checkout my newsletter:
+    <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7194460474376114178">
+        <img width="40px" src="https://github.com/user-attachments/assets/de7bd9b1-380b-40f7-8a75-6a30e84a791f" alt="Newsletter Icon" style="display: inline-block; vertical-align: middle;" />
+    </a>
+</h3>
 
-<!-- START_SECTION:prs -->
+
+<br> <!-- Add extra line breaks for spacing -->
 ## 🔄 Latest Open Source Pull Requests:
 
 🟣 Open | 🟢 Merged
 
-🟣 [Add mdatagen replace option to check-contrib target](https://github.com/open-telemetry/opentelemetry-collector/pull/11223) <br>
-🟢 [Add values.schema.json generation to Helm chart](https://github.com/external-secrets/external-secrets/pull/3774) <br>
-🟢 [Feature/add smoke tests api db](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/30) <br>
-🟢 [Fix reset-postgres task volume name](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/27) <br>
-🟢 [Enhancement/flake8 pipeline check](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/28) <br>
-🟢 [bump helm-docs image version in Makefile](https://github.com/external-secrets/external-secrets/pull/3806) <br>
+🟣 ***Open Telemetry***: [Add mdatagen replace option to check-contrib target](https://github.com/open-telemetry/opentelemetry-collector/pull/11223) <br>
+🟢 ***External Secrets Operator***: [Add values.schema.json generation to Helm chart](https://github.com/external-secrets/external-secrets/pull/3774) <br>
+🟢 ***Open Model Initiative***: [Feature/add smoke tests api db](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/30) <br>
+🟢 ***Open Model Initiative***: [Fix reset-postgres task volume name](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/27) <br>
+🟢 ***Open Model Initiative***: [Enhancement/flake8 pipeline check](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/28) <br>
+🟢 ***External Secrets Operator***: [bump helm-docs image version in Makefile](https://github.com/external-secrets/external-secrets/pull/3806) <br>
 
+<br> <!-- Add extra line breaks for spacing -->
 <h3 align="center">Connect with me:</h3>
 <p align="center"> 
-	<a href="mailto:pk2460@nyu.edu"><img width="45px" src="https://img.shields.io/badge/-sailikhithk?style=social&logo=Gmail&logoColor=red" alt="Prateek Kumar"/></a> &nbsp &nbsp
-	<a href="https://www.linkedin.com/in/prateek1709/"><img width="45px" src="https://img.shields.io/badge/--blue?style=social&logo=Linkedin&logoColor=blue" alt="Prateek Kumar" /> </a>
+	<a href="https://www.linkedin.com/in/prateek1709/"><img width="120px" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="Prateek Kumar"/> </a> 
+	<a href="https://medium.com/@prateek17"><img width="120px" src="https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=for-the-badge" alt="Prateek Kumar"/> </a>
+ 	<a href="mailto:pk2460@nyu.edu"><img width="100px" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Prateek Kumar"/></a> 
 
-	
+<br> <!-- Add extra line breaks for spacing -->
 <h3 align="center">Languages and Tools </h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank">
