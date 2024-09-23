@@ -11,14 +11,27 @@
 	<img src="https://img.shields.io/github/stars/PrateekKumar1709?label=Stars" alt="Total Stars">
 	<a href="https://prateekkumar1709.github.io/PrateekKumar/"><img src="https://img.shields.io/github/followers/PrateekKumar1709?label=Followers" alt="Prateek Kumar"/> </a>
 
-### About Me:
-	
+
+## About Me:
+
 Hi there! I'm Prateek, a passionate **Cloud-Native** Developer and proud NYU alum. At Intent HQ, I specialize in crafting next-gen solutions, focusing on building high-performance platforms for over 100 million users.
 
 I thrive on tackling hyper-scale challenges, constantly pushing the boundaries of what's possible in the cloud-native space. Whether it's designing scalable architectures or optimizing performance, I'm dedicated to delivering robust, efficient systems that keep pace with today’s dynamic tech landscape.
 
 Beyond my professional endeavors, I'm deeply committed to knowledge sharing and community building. Through mentorship and collaboration, I strive to empower others in the tech field.
 
+
+<!-- START_SECTION:prs -->
+## 🔄 Latest Open Source Pull Requests:
+
+🟣 Open | 🟢 Merged
+
+🟣 [Add mdatagen replace option to check-contrib target](https://github.com/open-telemetry/opentelemetry-collector/pull/11223) 
+🟢 [Add values.schema.json generation to Helm chart](https://github.com/external-secrets/external-secrets/pull/3774) <br>
+🟢 [Feature/add smoke tests api db](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/30) <br>
+🟢 [Fix reset-postgres task volume name](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/27) <br>
+🟢 [Enhancement/flake8 pipeline check](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/28) <br>
+🟢 [bump helm-docs image version in Makefile](https://github.com/external-secrets/external-secrets/pull/3806) <br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> 
