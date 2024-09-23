@@ -1,7 +1,7 @@
 <h1 align="center">Prateek Kumar </h1>
 
 <p align="center"> 
-	<img src="https://github.com/sailikhithk/sailikhithk/blob/master/welcome-1.gif" width="250" height="150">
+	<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IwaXl0ZHFra2pleW80ODVmbzcyc2lkMTZjY3VqdnVqMHFzNTY5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vACLXgansDXwHzzI/giphy.webp" width="180" height="150">
 
 <p align="center"> 
 	<a href="https://github.com/PrateekKumar1709"><img src="https://komarev.com/ghpvc/?username=PrateekKumar1709" alt="Prateek Kumar"/></a>
