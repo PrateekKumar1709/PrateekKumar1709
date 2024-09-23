@@ -33,7 +33,7 @@ Beyond my professional endeavors, I'm deeply committed to knowledge sharing and 
 
 🟣 Open | 🟢 Merged
 
-🟣 ***Open Telemetry***: [Add mdatagen replace option to check-contrib target](https://github.com/open-telemetry/opentelemetry-collector/pull/11223) <br>
+🟣 ***Open Telemetry Collector***: [Add mdatagen replace option to check-contrib target](https://github.com/open-telemetry/opentelemetry-collector/pull/11223) <br>
 🟢 ***External Secrets Operator***: [Add values.schema.json generation to Helm chart](https://github.com/external-secrets/external-secrets/pull/3774) <br>
 🟢 ***Open Model Initiative***: [Feature/add smoke tests api db](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/30) <br>
 🟢 ***Open Model Initiative***: [Fix reset-postgres task volume name](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/27) <br>
