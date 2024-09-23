@@ -13,11 +13,12 @@
 
 ### About Me:
 	
-- 💻 Software Engineer | Open Source | CNCF | K8s
-- 📚 CS @ NYU 
-- 🌱 I’m currently working on building backend applications using Cloud Computing & Big Data and Data Engineering
-- 🥅 2024 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I am into photography and I play guitar
+- 💻 **Platform engineer** | Open Source Enthusiast | CNCF | K8s
+- 📚 **CS @ NYU**
+- 🚀 Building next-gen cloud-native solutions at Intent HQ, crafting high-performance platforms for over 100 million users.
+- 🌟 Thriving on hyper-scale challenges, focusing on scalable architectures and performance optimization.
+- 🥅 2024 Goals: Enhance open source contributions in Kubernetes and Cloud Computing.
+- ⚡ Fun fact: I enjoy photography and play guitar.
 
 
 <h3 align="center">Connect with me:</h3>
