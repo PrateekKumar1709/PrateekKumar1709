@@ -13,12 +13,11 @@
 
 ### About Me:
 	
-- 💻 **Platform engineer** | Open Source Enthusiast | CNCF | K8s
-- 📚 **CS @ NYU**
-- 🚀 Building next-gen cloud-native solutions at Intent HQ, crafting high-performance platforms for over 100 million users.
-- 🌟 Thriving on hyper-scale challenges, focusing on scalable architectures and performance optimization.
-- 🥅 2024 Goals: Enhance open source contributions in Kubernetes and Cloud Computing.
-- ⚡ Fun fact: I enjoy photography and play guitar.
+Hi there! I'm Prateek, a passionate **Cloud-Native** Developer and proud NYU alum. At Intent HQ, I specialize in crafting next-gen solutions, focusing on building high-performance platforms for over 100 million users.
+
+I thrive on tackling hyper-scale challenges, constantly pushing the boundaries of what's possible in the cloud-native space. Whether it's designing scalable architectures or optimizing performance, I'm dedicated to delivering robust, efficient systems that keep pace with today’s dynamic tech landscape.
+
+Beyond my professional endeavors, I'm deeply committed to knowledge sharing and community building. Through mentorship and collaboration, I strive to empower others in the tech field.
 
 
 <h3 align="center">Connect with me:</h3>
