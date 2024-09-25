@@ -161,6 +161,7 @@ Beyond my professional endeavors, I'm deeply committed to knowledge sharing and 
 </p>
 
 <br />
+<!--
 <p align="center">
     <img
         height="180em"
@@ -174,7 +175,6 @@ Beyond my professional endeavors, I'm deeply committed to knowledge sharing and 
     />
 </p>
 
-<!--
 **PrateekKumar1709/PrateekKumar1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
