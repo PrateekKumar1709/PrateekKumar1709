@@ -35,7 +35,7 @@ Beyond my professional endeavors, I'm deeply committed to knowledge sharing and 
 [![Website](https://img.shields.io/badge/kubecompass.com-grey?style=for-the-badge&url=https%3A%2F%2Fkubecompass.com)](https://kubecompass.com/)
 
 <br> <!-- Add extra line breaks for spacing -->
-## Languages and Tools
+## Languages and Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank">
         <img
@@ -162,7 +162,7 @@ Beyond my professional endeavors, I'm deeply committed to knowledge sharing and 
 
 
 <br> <!-- Add extra line breaks for spacing -->
-## 📕 Latest Blog Posts
+## 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Simplify Secret Management in Kubernetes Using ESO, Vault, and ArgoCD](https://www.linkedin.com/pulse/simplify-secret-management-kubernetes-using-eso-vault-prateek-kumar-zrare/?trackingId=X5z0bu51THy19BlqOVZuoQ%3D%3D------2)
 - [Goodbye Dockerfiles, Hello Buildpacks! -Transform Your Container Workflow](https://www.linkedin.com/pulse/goodbye-dockerfiles-hello-buildpacks-transform-your-container-kumar-lm15e/?trackingId=h4qda7myTjSGDkwNLV86JA%3D%3D------2)
