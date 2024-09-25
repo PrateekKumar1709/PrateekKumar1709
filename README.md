@@ -1,4 +1,9 @@
-<h1 align="center">Prateek Kumar </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+
+<h1 align="center"> 
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Prateek
+</h1>
 
 <p align="center"> 
 	<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IwaXl0ZHFra2pleW80ODVmbzcyc2lkMTZjY3VqdnVqMHFzNTY5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vACLXgansDXwHzzI/giphy.webp" width="180" height="150">
@@ -153,7 +158,7 @@ Beyond my professional endeavors, I'm deeply committed to knowledge sharing and 
 
 🟣 Open | 🟢 Merged
 
-🟣 ***Open Telemetry Collector***: [Add mdatagen replace option to check-contrib target](https://github.com/open-telemetry/opentelemetry-collector/pull/11223) <br>
+🟢 ***Open Telemetry Collector***: [Add mdatagen replace option to check-contrib target](https://github.com/open-telemetry/opentelemetry-collector/pull/11223) <br>
 🟢 ***Open Model Initiative***: [Feature/add smoke tests api db](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/30) <br>
 🟢 ***Open Model Initiative***: [Fix reset-postgres task volume name](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/27) <br>
 🟢 ***Open Model Initiative***: [Enhancement/flake8 pipeline check](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/28) <br>
