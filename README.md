@@ -27,29 +27,16 @@ Beyond my professional endeavors, I'm deeply committed to knowledge sharing and 
     </a>
 </h3>
 
+<br> <!-- Add extra line breaks for spacing -->
+## Connect with me:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/prateek1709/)](https://www.linkedin.com/in/prateek1709/)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@prateek17)](https://medium.com/@prateek17)
+[![Website](https://img.shields.io/badge/kubecompass.com-grey?style=for-the-badge&url=https%3A%2F%2Fkubecompass.com)](https://kubecompass.com/)
 
 <br> <!-- Add extra line breaks for spacing -->
-## 🔄 Latest Open Source Pull Requests:
-
-🟣 Open | 🟢 Merged
-
-🟣 ***Open Telemetry Collector***: [Add mdatagen replace option to check-contrib target](https://github.com/open-telemetry/opentelemetry-collector/pull/11223) <br>
-🟢 ***Open Model Initiative***: [Feature/add smoke tests api db](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/30) <br>
-🟢 ***Open Model Initiative***: [Fix reset-postgres task volume name](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/27) <br>
-🟢 ***Open Model Initiative***: [Enhancement/flake8 pipeline check](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/28) <br>
-🟢 ***External Secrets Operator***: [Add values.schema.json generation to Helm chart](https://github.com/external-secrets/external-secrets/pull/3774) <br>
-🟢 ***External Secrets Operator***: [bump helm-docs image version in Makefile](https://github.com/external-secrets/external-secrets/pull/3806) <br>
-
-<br> <!-- Add extra line breaks for spacing -->
-<h3 align="center">Connect with me:</h3>
-<p align="center"> 
-	<a href="https://www.linkedin.com/in/prateek1709/"><img width="120px" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="Prateek Kumar"/> </a> 
-	<a href="https://medium.com/@prateek17"><img width="120px" src="https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=for-the-badge" alt="Prateek Kumar"/> </a>
- 	<a href="mailto:pk2460@nyu.edu"><img width="100px" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Prateek Kumar"/></a> 
-
-<br> <!-- Add extra line breaks for spacing -->
-<h3 align="center">Languages and Tools </h3>
-<p align="center">
+## Languages and Tools
+<p align="left">
   <a href="https://www.python.org" target="_blank">
         <img
             src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
@@ -161,30 +148,25 @@ Beyond my professional endeavors, I'm deeply committed to knowledge sharing and 
 </p>
 
 <br />
-<!--
-<p align="center">
-    <img
-        height="180em"
-	 width="400em"
-        src="https://github-readme-stats.vercel.app/api?username=PrateekKumar1709&show_icons=true&hide_border=true&theme=tokyonight"
-    />
-    <img
-        height="180em"
-	width="340em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekKumar1709&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
-    />
-</p>
 
-**PrateekKumar1709/PrateekKumar1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔄 Latest Open Source Pull Requests:
 
-Here are some ideas to get you started:
+🟣 Open | 🟢 Merged
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🟣 ***Open Telemetry Collector***: [Add mdatagen replace option to check-contrib target](https://github.com/open-telemetry/opentelemetry-collector/pull/11223) <br>
+🟢 ***Open Model Initiative***: [Feature/add smoke tests api db](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/30) <br>
+🟢 ***Open Model Initiative***: [Fix reset-postgres task volume name](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/27) <br>
+🟢 ***Open Model Initiative***: [Enhancement/flake8 pipeline check](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/28) <br>
+🟢 ***External Secrets Operator***: [Add values.schema.json generation to Helm chart](https://github.com/external-secrets/external-secrets/pull/3774) <br>
+🟢 ***External Secrets Operator***: [bump helm-docs image version in Makefile](https://github.com/external-secrets/external-secrets/pull/3806) <br>
+
+
+<br> <!-- Add extra line breaks for spacing -->
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Simplify Secret Management in Kubernetes Using ESO, Vault, and ArgoCD](https://www.linkedin.com/pulse/simplify-secret-management-kubernetes-using-eso-vault-prateek-kumar-zrare/?trackingId=X5z0bu51THy19BlqOVZuoQ%3D%3D------2)
+- [Goodbye Dockerfiles, Hello Buildpacks! -Transform Your Container Workflow](https://www.linkedin.com/pulse/goodbye-dockerfiles-hello-buildpacks-transform-your-container-kumar-lm15e/?trackingId=h4qda7myTjSGDkwNLV86JA%3D%3D------2)
+- [Exploring vClusters](https://kubecompass.com/posts/vcluster/------2)
+- [Secrets Management with External Secrets Operator](https://kubecompass.com/posts/eso/------2)
+- [Scale Smarter: Mastering Event-Driven Scaling with KEDA on Kubernetes](https://www.linkedin.com/pulse/scale-smarter-mastering-event-driven-scaling-keda-kubernetes-kumar-ukf1e/?trackingId=HQZIC8crQDCWT3V97Tb0FQ%3D%3D------2)
+<!-- BLOG-POST-LIST:END -->
