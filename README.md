@@ -156,6 +156,7 @@ Beyond my professional endeavors, I'm deeply committed to knowledge sharing and 
 
 🟣 Open | 🟢 Merged
 
+🟣 ***Open Telemetry Collector***: [Use docker buildx in CI to build containers for other architectures (including ARM)] (https://github.com/open-feature/playground/issues/253)
 🟢 ***Open Telemetry Collector***: [Add mdatagen replace option to check-contrib target](https://github.com/open-telemetry/opentelemetry-collector/pull/11223) <br>
 🟢 ***Open Model Initiative***: [Feature/add smoke tests api db](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/30) <br>
 🟢 ***Open Model Initiative***: [Fix reset-postgres task volume name](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/27) <br>
