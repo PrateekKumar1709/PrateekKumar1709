@@ -26,7 +26,7 @@ Beyond my professional endeavors, I'm deeply committed to knowledge sharing and 
 <h3 align="left">
     Checkout my newsletter:
     <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7194460474376114178">
-        <img width="40px" src="https://github.com/user-attachments/assets/de7bd9b1-380b-40f7-8a75-6a30e84a791f" alt="Newsletter Icon" style="display: inline-block; vertical-align: middle;" />
+        <img width="50px" src="https://cdn-icons-png.freepik.com/512/8364/8364693.png" alt="Newsletter Icon" style="display: inline-block; vertical-align: bottom;" />
     </a>
 </h3>
 
