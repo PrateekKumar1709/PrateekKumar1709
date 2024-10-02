@@ -172,5 +172,5 @@ Beyond my professional endeavors, I'm deeply committed to knowledge sharing and 
 - [Goodbye Dockerfiles, Hello Buildpacks! -Transform Your Container Workflow](https://www.linkedin.com/pulse/goodbye-dockerfiles-hello-buildpacks-transform-your-container-kumar-lm15e/?trackingId=h4qda7myTjSGDkwNLV86JA%3D%3D------2)
 - [Secrets Management with External Secrets Operator](https://kubecompass.com/posts/eso/------2)
 - [Scale Smarter: Mastering Event-Driven Scaling with KEDA on Kubernetes](https://www.linkedin.com/pulse/scale-smarter-mastering-event-driven-scaling-keda-kubernetes-kumar-ukf1e/?trackingId=HQZIC8crQDCWT3V97Tb0FQ%3D%3D------2)
-- - [Exploring vClusters](https://kubecompass.com/posts/vcluster/------2)
+- [Exploring vClusters](https://kubecompass.com/posts/vcluster/------2)
 <!-- BLOG-POST-LIST:END -->
