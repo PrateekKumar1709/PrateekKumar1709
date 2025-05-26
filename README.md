@@ -40,111 +40,229 @@ Beyond my professional endeavors, I'm deeply committed to knowledge sharing and 
 <br> <!-- Add extra line breaks for spacing -->
 ## Languages and Tools:
 <p align="left">
-  <a href="https://www.python.org" target="_blank">
-        <img
-            src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
-            alt="python"
-            width="40"
-            height="40"
-        />
-    </a>
-	
-<a href="https://nestjs.com/" target="_blank">
-        <img
-            src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"
-            alt="NestJS"
-            width="40"
-            height="40"
-        />
-    </a>	
-	
-  <a href="https://www.typescriptlang.org/" target="_blank">
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png"
-            alt="TypeScript"
-            width="40"
-            height="40"
-        />
-    </a>
-  <a href="https://www.aws.com/" target="_blank">
-        <img
-            src="https://www.fintechfutures.com/files/2019/12/Amazon-Web-Services-Logo.png"
-            alt="aws"
-            width="40"
-            height="40"
-        />
-    </a>
-	</a>
-	<a href="https://www.elastic.co/" target="_blank">
-        <img
-            src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt5d10f3a91df97d15/5c30744829d13af10bc2abd4/logo-elastic-vertical-reverse.svg"
-            alt="Elastic Stack"
-            width="40"
-            height="40"
-        />
-    </a>
-  <a href="https://www.docker.com/" target="_blank">
-        <img
-            src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker"
-            width="40"
-            height="40"
-        />
-    </a>
-  <a href="https://kubernetes.io/" target="_blank">
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/84px-Kubernetes_logo_without_workmark.svg.png"
-            alt="kubernetes"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://databricks.com/glossary/pyspark" target="_blank">
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/250px-Apache_Spark_logo.svg.png"
-            alt="c"
-            width="55"
-            height="50"
-        />
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank">
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/220px-Postgresql_elephant.svg.png"
-            alt="Postgresql"
-            width="40"
-            height="40"
-        />
-    </a>
-    </a>
-	<a href="https://www.linux.org/" target="_blank">
-        <img
-            src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
-            alt="Linux"
-            width="40"
-            height="40"
-        />
-    </a>
-	<a href="https://graphql.org/" target="_blank">
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/225px-GraphQL_Logo.svg.png"
-            alt="GraphQL"
-            width="40"
-            height="40"
-        />
-	<a href="https://www.vim.org/" target="_blank">
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/64px-Vimlogo.svg.png"
-            alt="Vim"
-            width="40"
-            height="40"
-        />
-	<a href="https://github.com/" target="_blank">
-        <img
-            src="https://avatars.githubusercontent.com/u/9919?s=200&v=4"
-            alt="Github"
-            width="40"
-            height="40"
-        />
+  <a href="https://www.python.org" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://nestjs.com/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"
+      alt="NestJS"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png"
+      alt="TypeScript"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://www.aws.com/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="aws"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://kubernetes.io/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/84px-Kubernetes_logo_without_workmark.svg.png"
+      alt="kubernetes"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://helm.sh/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://helm.sh/img/helm.svg"
+      alt="Helm"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://www.kubeflow.org/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://www.kubeflow.org/images/logo.svg"
+      alt="Kubeflow"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://opentelemetry.io/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://avatars.githubusercontent.com/u/49998002?s=48&v=4"
+      alt="OpenTelemetry"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://grafana.com/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"
+      alt="grafana"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://prometheus.io/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"
+      alt="prometheus"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://istio.io/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg"
+      alt="istio"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://www.terraform.io/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"
+      alt="terraform"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://argo-cd.readthedocs.io/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg"
+      alt="argocd"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://www.vaultproject.io/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg"
+      alt="vault"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://databricks.com/glossary/pyspark" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/250px-Apache_Spark_logo.svg.png"
+      alt="spark"
+      width="55"
+      height="50"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://www.elastic.co/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt5d10f3a91df97d15/5c30744829d13af10bc2abd4/logo-elastic-vertical-reverse.svg"
+      alt="Elastic Stack"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/220px-Postgresql_elephant.svg.png"
+      alt="postgresql"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://www.linux.org/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+      alt="linux"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://graphql.org/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/225px-GraphQL_Logo.svg.png"
+      alt="graphql"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://www.vim.org/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/64px-Vimlogo.svg.png"
+      alt="vim"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+  
+  <a href="https://github.com/" target="_blank" style="text-decoration: none; border: none; outline: none; margin-right: 5px; display: inline-block;">
+    <img
+      src="https://avatars.githubusercontent.com/u/9919?s=200&v=4"
+      alt="github"
+      width="40"
+      height="40"
+      style="border: none; outline: none; vertical-align: middle; display: block;"
+    />
+  </a>
+</p>
+
+
+
 
     
 	
@@ -157,6 +275,7 @@ Beyond my professional endeavors, I'm deeply committed to knowledge sharing and 
 🟣 Open | 🟢 Merged
 
 🟣 ***Open Feature***: [Use docker buildx in CI to build containers for other architectures including ARM](https://github.com/open-feature/playground/issues/253) <br>
+🟢 ***Open Model Initiative***: [Feature/add DCO sign off pre-commit hook](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/issues/173) <br>
 🟢 ***Open Telemetry Collector***: [Add mdatagen replace option to check-contrib target](https://github.com/open-telemetry/opentelemetry-collector/pull/11223) <br>
 🟢 ***Open Model Initiative***: [Feature/add smoke tests api db](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/30) <br>
 🟢 ***Open Model Initiative***: [Fix reset-postgres task volume name](https://github.com/Open-Model-Initiative/OMI-Data-Pipeline/pull/27) <br>
