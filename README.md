@@ -17,7 +17,7 @@
 
 ## About Me:
 
-Hi there! I'm Prateek, a passionate **Cloud-Native** Developer and proud NYU alum. At AMD, I lead efforts within the AI Group team to develop unified, high-performance AI software solutions that serve millions worldwide. I thrive on tackling hyper-scale challenges, constantly pushing the boundaries of what's possible in the ML and cloud-native space. Whether it's designing scalable architectures or optimizing performance, I'm dedicated to delivering robust, efficient systems that keep pace with today's dynamic tech landscape.
+Hi there! I'm Prateek, a passionate **Cloud-Native** Developer and proud NYU alum. At AMD, I lead efforts within the AI Group to develop unified, high-performance AI software solutions that serve millions worldwide. I thrive on tackling hyper-scale challenges, constantly pushing the boundaries of what's possible in the ML and cloud-native space. Whether it's designing scalable architectures or optimizing performance, I'm dedicated to delivering robust, efficient systems that keep pace with today's dynamic tech landscape.
 
 Beyond my professional endeavors, I'm deeply committed to knowledge sharing and community building. Through mentorship and collaboration, I strive to empower others in the tech field.
 
