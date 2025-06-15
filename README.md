@@ -17,10 +17,17 @@
 
 ## About Me:
 
-Hey, I'm Prateek! I'm a **Cloud-Native** Developer and NYU alum, building high-performance AI solutions at AMD's AI Platform. I craft scalable systems for millions, specializing in Kubernetes, MLOps, and cloud-native architectures. Passionate about tackling hyper-scale challenges, I optimize for efficiency and innovation in the ML ecosystem.
+Hey, I'm Prateek! I'm a Cloud-Native Developer and AI Engineer, building high-performance AI solutions at AMD's AI Platform. I design scalable systems for millions, specializing in Kubernetes, MLOps, and cloud-native architectures. Passionate about tackling hyper-scale challenges, I strive to optimize efficiency and drive innovation across the ML ecosystem.
 
-Beyond work, I actively contribute to CNCF projects, sharing code and insights to grow the open-source community. Let’s connect to shape the future of AI and cloud-native tech!
+Alongside my work, I actively contribute to CNCF and OpenGitOps projects, sharing code and insights to help grow the open-source community. I also lead and contribute to CNCF whitepapers on topics like Scheduling for Cloud Native AI, Sustainable AI, and GitOps Patterns.
 
+🚀 Architecting distributed inference pipelines and multi-node training clusters
+
+🔧 Deep expertise in Kubernetes, MLOps and cloud-native AI architectures
+
+🌟 Advancing open-source ML tooling, GitOps practices, and standards
+
+📝 Authoring and contributing to CNCF whitepapers on cutting-edge AI and cloud-native topics
 
 <h3 align="left">
     Checkout my newsletter:
