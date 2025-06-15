@@ -59,9 +59,9 @@ Currently, I'm focused on advancing distributed AI systems, optimizing model ser
 ## 📝 CNCF Whitepaper Initiatives
 
 🚀 **Leading & Contributing to:**
-- **Scheduling for Cloud Native AI** 
-- **Foundations & Framework for Sustainable AI in Cloud-Native Environments**
-- **Secrets Management in GitOps** 
+- Scheduling for Cloud Native AI
+- Foundations & Framework for Sustainable AI in Cloud-Native Environments
+- Secrets Management in GitOps
 
 ---
 
