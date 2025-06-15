@@ -61,7 +61,6 @@ Currently, I'm focused on advancing distributed AI systems, optimizing model ser
 🚀 **Leading & Contributing to:**
 - **Scheduling for Cloud Native AI** 
 - **Foundations & Framework for Sustainable AI in Cloud-Native Environments**
-- **GitOps Patterns and Best Practices** 
 - **Secrets Management in GitOps** 
 
 ---
