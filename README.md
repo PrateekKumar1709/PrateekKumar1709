@@ -25,7 +25,7 @@ Currently, I'm focused on advancing distributed AI systems, optimizing model ser
 ### 🎯 Current Focus
 
 - 🚀 **Distributed AI Systems**: Architecting high-performance distributed inference pipelines and multi-node training clusters
-- 🔬 **Research & Thought Leadership** Contributing to CNCF whitepaper initiatives on Cloud Native AI scheduling and sustainable AI practices
+- 🔬 **Research**: Contributing to CNCF whitepaper initiatives on Cloud Native AI scheduling and sustainable AI practices
 - 🛠️ **MLOps Innovation**: Developing scalable workflows using Kubernetes, Kubeflow, and Kuberay for efficient vLLM inference
 - 🌟 **Open Source**: Advancing ML tooling, GitOps practices, and contributing strategies for AI/ML through OpenGitOps
 
