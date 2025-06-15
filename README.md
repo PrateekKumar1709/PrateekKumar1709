@@ -25,8 +25,6 @@ Alongside my work, I actively contribute to CNCF and OpenGitOps projects, sharin
 
 🚀 Architecting distributed inference pipelines and multi-node training clusters
 
-🔧 Deep expertise in Kubernetes, MLOps and cloud-native AI architectures
-
 🌟 Advancing open-source ML tooling, GitOps practices, and standards
 
 📝 Authoring and contributing to CNCF whitepapers on cutting-edge AI and cloud-native topics
