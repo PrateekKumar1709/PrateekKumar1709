@@ -21,6 +21,8 @@ Hey, I'm Prateek! I'm a Cloud-Native Developer and AI Engineer, building high-pe
 
 Alongside my work, I actively contribute to CNCF and OpenGitOps projects, sharing code and insights to help grow the open-source community. I also lead and contribute to CNCF whitepapers on topics like Scheduling for Cloud Native AI, Sustainable AI, and GitOps Patterns.
 
+### Current focus:
+
 🚀 Architecting distributed inference pipelines and multi-node training clusters
 
 🔧 Deep expertise in Kubernetes, MLOps and cloud-native AI architectures
